@@ -8,6 +8,8 @@ effects are synthesized live with the Web Audio API.
 Tap, click, or press a key to flap the bird through the gaps between pipes.
 Clear as many as you can, earn medals, and beat your best score.
 
+![](screen-1.png)
+
 ## Features
 
 - **Faithful recreation** at the original 288×512 logical resolution, with
